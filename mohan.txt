@@ -1,3 +1,5 @@
 here i learn git
 
 we learn git commands
+
+on file should be deleted
