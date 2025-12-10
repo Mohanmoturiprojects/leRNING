@@ -3,3 +3,7 @@ here i learn git
 we learn git commands
 
 on file should be deleted
+
+afyter push the code 
+
+here also going modifications after push
