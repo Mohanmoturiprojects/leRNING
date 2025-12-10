@@ -1,1 +1,3 @@
 here i learn git
+
+we learn git commands
