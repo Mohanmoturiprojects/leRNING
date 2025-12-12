@@ -2,7 +2,9 @@ here i learn git
 
 we learn git commands
 
-on file should be deleted
+on file 
 
 
 here also going modifications after push
+
+we gahevr gorefing some more
